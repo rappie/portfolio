@@ -5,7 +5,7 @@ Rappie is the founder of [Perimeter](https://cantina.xyz/guilds/perimeter), an A
 
 As a security researcher, he specializes in fuzzing EVM-based smart contracts. 
 
-Beyond his professional roles, Rappie is an active member of the fuzzing community, contributing to its growth through various initiatives, including maintaining a [List of Public Fuzzing Campaigns](https://github.com/perimetersec/public-fuzzing-campaigns-list)
+Beyond his professional roles, Rappie is an active member of the fuzzing community, contributing to its growth through various initiatives, including maintaining a [List of Public Fuzzing Campaigns](https://github.com/perimetersec/public-fuzzing-campaigns-list).
 
 ## Testimonials
 > Rappie found some extremely subtle behaviors in our code that many others missed. He not only uses the cutting edge of multiple fuzzing engines, but also helps shape how these fuzzers are built. We've been delighted to use his mastery to make our contracts more secure.
