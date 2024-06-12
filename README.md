@@ -7,6 +7,15 @@ As a security researcher, he specializes in fuzzing EVM-based smart contracts.
 
 Beyond his professional roles, Rappie is an active member of the fuzzing community, contributing to its growth through various initiatives, including maintaining a [List of Public Fuzzing Campaigns](https://github.com/perimetersec/public-fuzzing-campaigns-list)
 
+## Testimonials
+> Rappie found some extremely subtle behaviors in our code that many others missed. He not only uses the cutting edge of multiple fuzzing engines, but also helps shape how these fuzzers are built. We've been delighted to use his mastery to make our contracts more secure.
+> 
+>   - [DanielVF](https://x.com/danielvf), [Origin Protocol](https://www.originprotocol.com/)
+
+> Rappie went above and beyond to deeply understand our protocol and cover all the edge cases. His experience and knowledge about the art of fuzzing is unparalleled. Overall he is an incredible security expert, we certainly will be returning to him with our future smart contracts.
+>
+>   - [Igor Zuk](https://x.com/code_sandwich), [Drips Network](https://www.drips.network/)
+
 ## Fuzzing & Security Research
 
 | Protocol                                           | Engagement Type                                    | Completed | Report                                                                                                                                   | Code                                                                                            |
@@ -38,15 +47,6 @@ Beyond his professional roles, Rappie is an active member of the fuzzing communi
 | Contributing to [Antonio Viggiano](https://x.com/agfviggiano)'s Eureka initiative | [Link](https://x.com/agfviggiano/status/1767899333620363432)                                                                                                                                     |
 | Reproduction of the Rari Finance hack using on-chain fuzzing with Echidna         | [Link](https://github.com/rappie/echidna-rari-hack)                                                                                                                                              |
 | Author of Echidna Exercise: Solve Damn Vulnerable DeFi - Side Entrance            | [Exercise](https://github.com/crytic/building-secure-contracts/blob/master/program-analysis/echidna/exercises/Exercise-7.md), [PR](https://github.com/crytic/building-secure-contracts/pull/143) |
-
-## Testimonials
-> Rappie found some extremely subtle behaviors in our code that many others missed. He not only uses the cutting edge of multiple fuzzing engines, but also helps shape how these fuzzers are built. We've been delighted to use his mastery to make our contracts more secure.
-> 
->   - [DanielVF](https://x.com/danielvf), [Origin Protocol](https://www.originprotocol.com/)
-
-> Rappie went above and beyond to deeply understand our protocol and cover all the edge cases. His experience and knowledge about the art of fuzzing is unparalleled. Overall he is an incredible security expert, we certainly will be returning to him with our future smart contracts.
->
->   - [Igor Zuk](https://x.com/code_sandwich), [Drips Network](https://www.drips.network/)
 
 ## Contact
 Don't hesitate to contact me with questions, discussions, or business requests.
