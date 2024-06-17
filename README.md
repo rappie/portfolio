@@ -1,7 +1,7 @@
 <img src="assets/profile.png" alt="Profile Picture">
 
 ## About Rappie
-Rappie is the Founder, CTO, and Lead Fuzzing Specialist at [Perimeter](https://cantina.xyz/guilds/perimeter), an Associate Security Researcher at [Spearbit](https://spearbit.com/), and active in Bug Bounty on [Immunefi](https://immunefi.com/).
+Rappie is the Founder, CTO, and Lead Fuzzing Specialist at [Perimeter](https://perimetersec.io), an Associate Security Researcher at [Spearbit](https://spearbit.com/), and active in Bug Bounty on [Immunefi](https://immunefi.com/).
 
 As a security researcher, he specializes in fuzzing EVM-based smart contracts. 
 
@@ -44,7 +44,6 @@ Beyond his professional roles, Rappie is an active member of the fuzzing communi
 | Project                                                                           | Link                                                                                                                                                                                             |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Maintaining a List of Public Fuzzing Campaigns                                    | [Link](https://github.com/perimetersec/public-fuzzing-campaigns-list)                                                                                                                            |
-| Contributing to [Antonio Viggiano](https://x.com/agfviggiano)'s Eureka initiative | [Link](https://x.com/agfviggiano/status/1767899333620363432)                                                                                                                                     |
 | Reproduction of the Rari Finance hack using on-chain fuzzing with Echidna         | [Link](https://github.com/rappie/echidna-rari-hack)                                                                                                                                              |
 | Author of Echidna Exercise: Solve Damn Vulnerable DeFi - Side Entrance            | [Exercise](https://github.com/crytic/building-secure-contracts/blob/master/program-analysis/echidna/exercises/Exercise-7.md), [PR](https://github.com/crytic/building-secure-contracts/pull/143) |
 
