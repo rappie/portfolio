@@ -1,7 +1,7 @@
 <img src="assets/profile.png" alt="Profile Picture">
 
 ## About Rappie
-Rappie is the Founder, CTO, and Lead Fuzzing Specialist at [Perimeter](https://perimetersec.io), an Associate Security Researcher at [Spearbit](https://spearbit.com/), and active in Bug Bounty on [Immunefi](https://immunefi.com/).
+Rappie is the CTO and Lead Fuzzing Specialist at [Perimeter](https://perimetersec.io), an Associate Security Researcher at [Spearbit](https://spearbit.com/), and active in Bug Bounty on [Immunefi](https://immunefi.com/).
 
 As a security researcher, he specializes in fuzzing EVM-based smart contracts. 
 
@@ -20,6 +20,7 @@ Beyond his professional roles, Rappie is an active member of the fuzzing communi
 
 | Protocol                                           | Engagement Type                                    | Completed | Report                                                                                                                                   | Code                                                                                            |
 | -------------------------------------------------- | -------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Berachain                                          | Fuzzing Specialist during Spearbit Security Review | 2024-09   |                                                                                                                                          |                                                                                                 |
 | Private                                            | Fuzzing Specialist during Spearbit Security Review | 2024-05   |                                                                                                                                          |                                                                                                 |
 | [Origin Protocol](https://www.originprotocol.com/) | Perimeter Fuzzing Engagement                       | 2024-05   | [Report](https://github.com/perimetersec/origin-oeth-fuzzing/blob/main/reports/Origin%20Protocol%20OETHVault%20-%20Fuzzing%20Report.pdf) | [Code](https://github.com/perimetersec/origin-oeth-fuzzing/tree/main/src/fuzz/oethvault)        |
 | Private                                            | Perimeter Fuzzing Engagement                       | 2024-04   |                                                                                                                                          |                                                                                                 |
@@ -42,11 +43,12 @@ Beyond his professional roles, Rappie is an active member of the fuzzing communi
 
 ## Other Work & Initiatives
 
-| Project                                                                           | Link                                                                                                                                                                                             |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Maintaining a List of Public Fuzzing Campaigns                                    | [Link](https://github.com/perimetersec/public-fuzzing-campaigns-list)                                                                                                                            |
-| Reproduction of the Rari Finance hack using on-chain fuzzing with Echidna         | [Link](https://github.com/rappie/echidna-rari-hack)                                                                                                                                              |
-| Author of Echidna Exercise: Solve Damn Vulnerable DeFi - Side Entrance            | [Exercise](https://github.com/crytic/building-secure-contracts/blob/master/program-analysis/echidna/exercises/Exercise-7.md), [PR](https://github.com/crytic/building-secure-contracts/pull/143) |
+| Project                                                                        | Link                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Maintaining a List of Public Fuzzing Campaigns                                 | [Link](https://github.com/perimetersec/public-fuzzing-campaigns-list)                                                                                                                            |
+| Reproduction of the Rari Finance hack using on-chain fuzzing with Echidna      | [Link](https://github.com/rappie/echidna-rari-hack)                                                                                                                                              |
+| Reproduction of the Curve Reentrancy hacks using on-chain fuzzing with Echidna | [Link](https://github.com/rappie/echidna-curve-reentrancy-hack)                                                                                                                                  |
+| Author of Echidna Exercise: Solve Damn Vulnerable DeFi - Side Entrance         | [Exercise](https://github.com/crytic/building-secure-contracts/blob/master/program-analysis/echidna/exercises/Exercise-7.md), [PR](https://github.com/crytic/building-secure-contracts/pull/143) |
 
 ## Contact
 Don't hesitate to contact me with questions, discussions, or business requests.
