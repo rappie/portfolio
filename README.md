@@ -44,6 +44,7 @@ Beyond research and assessments, I contribute to the fuzzing community through o
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | EVM Fuzzing Resources                                                          | [Link](https://github.com/perimetersec/evm-fuzzing-resources)                                                                                                                                    |
 | List of Public Fuzzing Campaigns                                               | [Link](https://github.com/perimetersec/public-fuzzing-campaigns-list)                                                                                                                            |
+| Creator of Fuzzlib, a General Purpose Unopinionated Solidity Fuzzing Library   | [Link](https://github.com/perimetersec/fuzzlib)                                                                                                                                                  |
 | Reproduction of the Rari Finance hack using on-chain fuzzing with Echidna      | [Link](https://github.com/rappie/echidna-rari-hack)                                                                                                                                              |
 | Reproduction of the Curve Reentrancy hacks using on-chain fuzzing with Echidna | [Link](https://github.com/rappie/echidna-curve-reentrancy-hack)                                                                                                                                  |
 | Author of Echidna Exercise: Solve Damn Vulnerable DeFi - Side Entrance         | [Exercise](https://github.com/crytic/building-secure-contracts/blob/master/program-analysis/echidna/exercises/Exercise-7.md), [PR](https://github.com/crytic/building-secure-contracts/pull/143) |
@@ -59,8 +60,8 @@ Beyond research and assessments, I contribute to the fuzzing community through o
 | `OUSD.burn()` allows for destroying supply while balance remains                          | Low          | [Report](reports/Origin%20Protocol%20-%20OUSD%20burn%20allows%20destroying%20supply%20while%20balance%20remains.md) | Immunefi  | [Origin Protocol](https://www.originprotocol.com/) |
 
 ## Contact
-Don't hesitate to contact me for questions, discussions, or business requests.
-- X: [rappie_eth](https://x.com/rappie_eth)
-- Discord: `rappie`
-- Telegram: `@rappenstein`
-- Cantina: [Rappie](https://cantina.xyz/u/Rappie)
+I'm open to fuzzing engagements, security research, consulting, and general fuzzing-related questions. Feel free to reach out!
+- **X**: [@rappie_eth](https://x.com/rappie_eth)
+- **Discord**: `rappie`
+- **Telegram**: `@rappenstein`
+- **Cantina**: [Rappie](https://cantina.xyz/u/Rappie)
