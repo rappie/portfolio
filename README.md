@@ -1,6 +1,6 @@
 <img src="assets/profile.png" alt="Profile Picture">
 
-## About
+## About Me
 I'm Rappie, CTO & Lead Fuzzing Specialist at [Perimeter](https://perimetersec.io), Associate Security Researcher at [Spearbit](https://spearbit.com/), and active in bug bounty on [Immunefi](https://immunefi.com/). I specialize in fuzzing EVM-based smart contracts to help protocols secure their code.
 
 Beyond research and assessments, I contribute to the fuzzing community through open-source projects like [EVM Fuzzing Resources](https://github.com/perimetersec/evm-fuzzing-resources) and the [List of Public Fuzzing Campaigns](https://github.com/perimetersec/public-fuzzing-campaigns-list).
@@ -15,7 +15,7 @@ Beyond research and assessments, I contribute to the fuzzing community through o
 >
 >   - [Igor Zuk](https://x.com/code_sandwich), [Drips Network](https://www.drips.network/)
 
-## Fuzzing & Security Research
+## Security & Fuzzing Engagements
 
 | Protocol                                           | Engagement Type                                    | Completed   | Report                                                                                                                                   | Code                                                                                            |
 | -------------------------------------------------- | -------------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -38,7 +38,7 @@ Beyond research and assessments, I contribute to the fuzzing community through o
 | [Origin Protocol](https://www.originprotocol.com/) | Fuzzing Engagement                                 | 2023-09     |                                                                                                                                          | [Code](https://github.com/OriginProtocol/origin-dollar/tree/master/contracts/contracts/echidna) |
 | [Origin Protocol](https://www.originprotocol.com/) | Fuzzing & Audit                                    | 2023-03     | [Report]( reports/Origin%20Protocol%20-%20Security%20assessment%20of%20PR%20%231239.md)                                                  |                                                                                                 |
 
-## Public Goods
+## Open Source Contributions
 
 | Project                                                                        | Link                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -49,7 +49,7 @@ Beyond research and assessments, I contribute to the fuzzing community through o
 | Reproduction of the Curve Reentrancy hacks using on-chain fuzzing with Echidna | [Link](https://github.com/rappie/echidna-curve-reentrancy-hack)                                                                                                                                  |
 | Author of Echidna Exercise: Solve Damn Vulnerable DeFi - Side Entrance         | [Exercise](https://github.com/crytic/building-secure-contracts/blob/master/program-analysis/echidna/exercises/Exercise-7.md), [PR](https://github.com/crytic/building-secure-contracts/pull/143) |
 
-## Bug Bounty & Competitions
+## Bug Bounties & Competitions
 | Description                                                                               | Severity<br> | Report                                                                                                              | Platform  | Protocol                                           |
 | ----------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------- |
 | Incorrect argument passed to `Utils.characterToUnicodeBytes` in `Namespace.fuse`          | High         | [Report](https://github.com/code-423n4/2023-03-canto-identity-findings/issues/101)                                  | Code4rena | [Canto Identity](https://www.cantoidentity.build/) |
@@ -59,7 +59,7 @@ Beyond research and assessments, I contribute to the fuzzing community through o
 | `LiquidityTree.push()` does not always update state correctly                             | Low          | [Report](reports/Azuro%20-%20Function%20push%20does%20not%20always%20update%20correctly.md)                         | Immunefi  | [Azuro](https://azuro.org/)                        |
 | `OUSD.burn()` allows for destroying supply while balance remains                          | Low          | [Report](reports/Origin%20Protocol%20-%20OUSD%20burn%20allows%20destroying%20supply%20while%20balance%20remains.md) | Immunefi  | [Origin Protocol](https://www.originprotocol.com/) |
 
-## Contact
+## Get in Touch
 I'm open to fuzzing engagements, security research, consulting, and general fuzzing-related questions. Feel free to reach out!
 - **X**: [@rappie_eth](https://x.com/rappie_eth)
 - **Discord**: `rappie`
